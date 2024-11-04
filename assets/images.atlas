@@ -1,0 +1,37 @@
+images.png
+size:4096,4096
+repeat:none
+Space
+bounds:0,960,1440,2880
+Starscape00
+bounds:1440,0,1080,1920
+Starscape01
+bounds:1440,1920,1080,1920
+Starscape02
+bounds:2520,0,1080,1920
+Starscape03
+bounds:2520,1920,1080,1920
+darkPurpleStarscape - copia
+bounds:3600,3584,256,256
+darkPurpleStarscape
+bounds:3600,3584,256,256
+enemyBlack4
+bounds:0,13,82,84
+estrellas
+bounds:0,160,800,800
+laserBlue01
+bounds:800,787,9,54
+laserRed16
+bounds:378,106,13,54
+libgdx
+bounds:0,97,378,63
+playerShip3_blue
+bounds:3856,3765,98,75
+shield1 - copia
+bounds:3600,3476,133,108
+shield1
+bounds:3600,3476,133,108
+shield2 - copia
+bounds:800,841,143,119
+shield2
+bounds:800,841,143,119
